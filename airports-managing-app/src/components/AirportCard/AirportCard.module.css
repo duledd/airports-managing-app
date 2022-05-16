@@ -1,0 +1,14 @@
+.card {
+    height: auto;
+}
+
+.p {
+    display: flex;
+    justify-content: flex-start;
+}
+
+@media screen and(min-width:768px) {
+    .card {
+        height: 13rem;
+    }
+}

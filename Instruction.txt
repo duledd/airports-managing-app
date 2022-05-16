@@ -1,0 +1,20 @@
+
+TO RUN THIS APP:
+
+1. Import the "Dump20220509.sql" file in your MySql workbench
+
+2. Inside the "Index.js" file in server folder set the password for your MySql connection
+
+    path: airports-managing-app/server/
+
+    Within Index.js file change password (line: 10)
+
+    npm run devStart
+    
+3. Inside the "airports-managing-app" folder in the terminal install the required dependencies
+   
+    path: airports-managing-app/airports-managing-app/
+
+    npm install
+
+    npm start

@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.div {
+    height: 95vh;
+    display: flex;
+    flex-direction: column;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 1rem;
+}
+
+.input {
+    width: 300px;
+    margin-top: 1rem !important;
+    background-color: cornsilk;
+}
+
+.button {
+    width: 300px !important;
+    margin-top: 1rem !important;
+}
